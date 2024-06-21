@@ -4,7 +4,7 @@
 <!-- - uv is used to make this project -->
 
 # Pre-Requisitory
-
+- Must Have Python Installed Latest Version
 - Must Need To Have An API Key From GEMINI API By Google
 - `https://ai.google.dev/` grab an API key from this URL simply just by log into your google account
 
